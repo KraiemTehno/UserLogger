@@ -1,0 +1,16 @@
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Watcher.exe.config
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Watcher.exe
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Watcher.pdb
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Models.dll
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Newtonsoft.Json.dll
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\System.Data.SQLite.dll
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Models.pdb
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\Newtonsoft.Json.xml
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\System.Data.SQLite.xml
+D:\Заказ ОЮ\Watcher\Watcher\bin\Release\System.Data.SQLite.dll.config
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.csprojAssemblyReference.cache
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.Properties.Resources.resources
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.csproj.GenerateResource.cache
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.csproj.CopyComplete
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.exe
+D:\Заказ ОЮ\Watcher\Watcher\obj\Release\Watcher.pdb

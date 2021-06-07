@@ -1,0 +1,5 @@
+D:\Заказ ОЮ\Watcher\Models\bin\Release\Models.dll
+D:\Заказ ОЮ\Watcher\Models\bin\Release\Models.pdb
+D:\Заказ ОЮ\Watcher\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\Заказ ОЮ\Watcher\Models\obj\Release\Models.dll
+D:\Заказ ОЮ\Watcher\Models\obj\Release\Models.pdb

@@ -1,0 +1,14 @@
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\WatcherManagerClient.exe.config
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\WatcherManagerClient.exe
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\WatcherManagerClient.pdb
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\Models.dll
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\Newtonsoft.Json.dll
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\Models.pdb
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\bin\Release\Newtonsoft.Json.xml
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.csprojAssemblyReference.cache
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.Form1.resources
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.Properties.Resources.resources
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.csproj.GenerateResource.cache
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.csproj.CopyComplete
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.exe
+D:\Заказ ОЮ\Watcher\WatcherManagerClient\obj\Release\WatcherManagerClient.pdb
